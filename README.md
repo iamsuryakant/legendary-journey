@@ -1,3 +1,1 @@
-# legendary-journey
-
 # JAVA
